@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# This configuration file will be used by sysconfig.sh script.
+# NOTE: The INSTALL_ALL would override all other configurations
+# Lines with # and white-spaces will be ignored
+
+
+
+
+#INSTALL_ALL='1'
+INSTALL_ESEN_PACK='1'
+MAKE_TREE='1'
+MAKE_ALIAS='1'
+
